@@ -1,0 +1,6 @@
+## Server ##
+type: ServerClusteredFedACG
+momentum: 0.85
+FedACG: True
+num_clusters: 2
+clustering_interval: 20 
